@@ -1,2 +1,2 @@
 # Python_Patterns
-This package contains program of patterns for Alphabets,Numbers and Symbols
+This package contains  patterns for Alphabets,Numbers and Symbols
